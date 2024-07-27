@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sourav Saha</h1>
+<h1 align="center">**Hello! This is Sourav Saha** 🙋🏻‍♂️</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/souravsaha51?tab=repositories" >**Portfolio**</a>
 
-- 📫 How to reach me Linkedin <a href="www.linkedin.com/in/sourav-saha-4b89b7227/" >**Linkedin**</a>
+- 📫 How to reach me Linkedin <a href="www.linkedin.com/in/sourav-saha-4b89b7227" >**Linkedin**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
