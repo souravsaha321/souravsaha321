@@ -1,9 +1,10 @@
 <h1 align="center"> Hello! This is Sourav Saha 🙋🏻‍♂️</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif" style="width: 220px; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Data Cleaning, Data Analysis, Data Visualization
+- <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage">
 - 👨‍💻 All of my projects are available at <a href="https://github.com/souravsaha51?tab=repositories" >**Portfolio**</a>
 - 📫 How to reach me Linkedin <a href="https://www.linkedin.com/in/sourav-saha-4b89b7227/" >**Linkedin**</a>
 
