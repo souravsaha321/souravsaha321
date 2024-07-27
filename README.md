@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif">
+<img align="right" alt="Coding" width="385" src="https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif">
 
 - 🌱 I’m currently learning Machine Learning
 
