@@ -3,9 +3,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/souravsaha51?tab=repositories" >Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/souravsaha51?tab=repositories" >**Portfolio**</a>
 
-- 📫 How to reach me Linkedin **https://www.linkedin.com/in/sourav-saha-4b89b7227/**
+- 📫 How to reach me Linkedin <a href="www.linkedin.com/in/sourav-saha-4b89b7227/" >**Linkedin**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
