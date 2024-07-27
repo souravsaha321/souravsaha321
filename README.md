@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about Data Cleaning, Data Analysis, Data Visualization
 - 👨‍💻 All of my projects are available at <a href="https://github.com/souravsaha51?tab=repositories" >**Portfolio**</a>
 
 - 📫 How to reach me Linkedin <a href="https://www.linkedin.com/in/sourav-saha-4b89b7227/" >**Linkedin**</a>
