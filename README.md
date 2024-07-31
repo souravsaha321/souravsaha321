@@ -1,7 +1,6 @@
 <h1 align="center"> <B> Hi 👋, I'm Sourav Saha 🙋🏻‍♂️🕺🏻 <B/></h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
- 
-&nbsp;
+ &nbsp;
 &nbsp;
 &nbsp;
  
@@ -9,8 +8,7 @@
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
+
 
 - 🌱 I’m currently learning Machine Learning
 
