@@ -1,9 +1,7 @@
 <h1 align="center"> <B> Hi 👋, I'm Sourav Saha 🙋🏻‍♂️🕺🏻 <B/></h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-&ensp;
- 
-<img align="right" alt="Coding" width="385" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
+<img align="right" alt="Coding" width="385" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 - 🌱 I’m currently learning Machine Learning
 
 - 💬 Ask me about Data Cleaning, Data Analysis, Data Visualization
