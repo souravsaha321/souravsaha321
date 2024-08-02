@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Data Cleaning, Data Analysis, Data Visualization
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/souravsaha51?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-sourav-ten.vercel.app/)
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sourav-saha-4b89b7227/) 
   
