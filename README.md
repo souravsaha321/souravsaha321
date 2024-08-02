@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-sourav-ten.vercel.app/)
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sourav-saha-4b89b7227/) 
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sourav-saha-4b89b7227/ target:_blank) 
   
 &ensp;
 &nbsp;
