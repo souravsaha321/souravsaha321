@@ -4,7 +4,6 @@
 &nbsp;
 &nbsp;
  
-<img align="right" alt="Coding" width="55%" src="https://user-images.githubusercontent.com/110812339/224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e.gif">
 
 &nbsp;
 &nbsp;
